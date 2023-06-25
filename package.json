@@ -1,8 +1,8 @@
 {
-  "name": "yourpet-frontend",
+  "name": "your-pet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://haber-viacheslav.github.io/yourpet-frontend/",
+  "homepage": "https://AH400796.github.io/your-pet/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.3",
